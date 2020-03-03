@@ -170,7 +170,7 @@ Bir projeye JSX eklemek, bir paketleyici veya geliştirme sunucusu gibi karmaş�
 Terminal içinde proje klasörünüze gidin ve şu iki komutu yapıştırın:
 
 1. **Adım 1:** `npm init -y` komutunu çalıştır (başarısız olursa, [ bu düzeltmeye](https://gist.github.com/gaearon/246f6380610e262f8a648e3e51cad40d) bakınız.)
-2. **Step 2:** `npm install babel-cli@6 babel-preset-react-app@3` komutunu çalıştır
+2. **Adım 2:** `npm install babel-cli@6 babel-preset-react-app@3` komutunu çalıştır
 
 >İpucu
 >
